@@ -1,0 +1,6 @@
+# Obsidian: per-machine workspace state and personal editor settings.
+# Settings an agent or tool actually needs live in _ai/config/, not here.
+.obsidian/
+
+# macOS
+.DS_Store
